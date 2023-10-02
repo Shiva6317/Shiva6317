@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva6317&label=Profile%20views&color=0e75b6&style=flat" alt="shiva6317" /> </p>
 
-- 🔭 I’m currently working on School management Software **School Management Software**
+- 🔭 I’m currently working on  **School Management Software**
 
 - 🌱 I’m currently learning **SQL and NextJs**
 
