@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Shiva6317/Shiva6317/blob/main/bannergithub.png" alt="shiva Banner Image"/>
 
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiva6317&label=Profile%20views&color=0e75b6&style=flat" alt="shiva6317" /> </p>
 
