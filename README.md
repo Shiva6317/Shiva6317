@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/Shiva6317/Shiva6317/blob/main/BANNER.jpg" alt="shiva Banner Image"/>
+
 <h1 align="center">Hi 👋, I'm Shiva</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
